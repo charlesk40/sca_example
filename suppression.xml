@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.1.xsd">
+    <suppress>
+        <notes><![CDATA[
+   file name: clover-4.3.0.jar/META-INF/maven/commons-collections/commons-collections/pom.xml
+   ]]></notes>
+        <cpe>cpe:/a:apache:commons_collections:3.2.1</cpe>
+    </suppress>
+</suppressions>

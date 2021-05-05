@@ -1,0 +1,10 @@
+.checkstyle
+/target/
+.classpath
+.project
+.settings
+
+.DS_Store
+.externalToolBuilders/
+effective-pom.xml
+
